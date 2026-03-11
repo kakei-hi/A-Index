@@ -1,0 +1,13 @@
+# 一般的なPython仮想環境名もついでに除外しておく
+.venv/
+venv/
+env/
+envs/
+__pycache__/
+*.pyc
+
+# R関連を除外
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
